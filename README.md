@@ -1,7 +1,7 @@
 ## ArifReis Kimdir?
 Ünlü Bir Siber Güvenlik Uzmanıyım Çeşitli Gerekli Programlar Paylaşıyorum. Merakım sayesinde buralara kadar geldim.
 <br>
-LWA Ve LotteryCraftın Sahibiyim.
+LWA Team Ve Sosyal Medya Megramın Sahibiyim.
 <br>
 
 
