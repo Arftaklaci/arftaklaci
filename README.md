@@ -10,6 +10,7 @@ LWA Team Ve Sosyal Medya Megramın Sahibiyim.
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="50px"></img>](#iyi-bildiğim-diller)
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="50px"></img>](#iyi-bildiğim-diller)
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="50px"></img>](#iyi-bildiğim-diller)
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" width="50px"></img>](#iyi-bildiğim-diller)
 
 ## İşe yarar bağlantılar:
 [![YouTube](https://img.shields.io/badge/youtube%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC7mv1-WX8_UmQE-TXLWT4RQ)
