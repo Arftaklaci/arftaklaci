@@ -1,5 +1,5 @@
 ------
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&background=000000DE&center=true&vCenter=true&multiline=true&random=true&width=360&lines=WHO+is+ArifReis%3F++%F0%9F%96%90)]
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&background=000000DE&center=true&vCenter=true&multiline=true&random=true&width=360&lines=WHO+is+ArifReis%3F++%F0%9F%96%90)
 
 <p>
   I am a well-known <b>Cybersecurity Expert</b>, sharing various essential tools and programs with the community.  
