@@ -14,7 +14,7 @@
 <ul>
   <li>Cybersecurity & Ethical Hacking</li>
   <li>Web Development (JavaScript, HTML, CSS, PHP)</li>
-  <li>Data Science & Machine Learning (Python)</li>
+  <li>Data Science & Machine Learning(LLM) (Python)</li>
   <li>Database Management (SQL / PL-SQL)</li>
 </ul>
 
