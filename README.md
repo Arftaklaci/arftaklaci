@@ -1,11 +1,13 @@
-## ArifReis Kimdir?
-Ünlü Bir Siber Güvenlik Uzmanıyım Çeşitli Gerekli Programlar Paylaşıyorum. Merakım sayesinde buralara kadar geldim.
-<br>
-LWA Team Ve Sosyal Medya Megramın Sahibiyim.
-<br>
 
+------
+Who is ArifReis?
 
-## İyi Bildiğim diller:
+I am a well-known Cybersecurity Expert, sharing various essential tools and programs with the community. Thanks to my curiosity and passion for technology, I have come this far in my journey.
+<br>
+I am also the founder of LWA Team and the social media platform Megram.
+<br>
+------
+Programming Languages I Excel At:
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="50px"></img>](#iyi-bildiğim-diller)
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="50px"></img>](#iyi-bildiğim-diller)
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="50px"></img>](#iyi-bildiğim-diller)
