@@ -1,5 +1,5 @@
 ------
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&background=000000DE&center=true&vCenter=true&multiline=true&random=true&width=360&lines=WHO+is+ArifReis%3F++%F0%9F%96%90)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&background=000000DE&center=true&vCenter=true&multiline=true&random=true&width=360&lines=WHO+is+ArifReis%3F++%F0%9F%96%90)]
 
 <p>
   I am a well-known <b>Cybersecurity Expert</b>, sharing various essential tools and programs with the community.  
@@ -52,4 +52,4 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arftaklaci&theme=dark&count_private=true&show_icons=true&hide_border=true)](#useful-links)
 ------
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F70000&background=000000DE&center=true&vCenter=true&random=true&width=600&height=80&lines=Thank+you+for+viewing+my+profile.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F70000&background=000000DE&center=true&vCenter=true&random=true&width=600&height=80&lines=Thank+you+for+viewing+my+profile.)]
