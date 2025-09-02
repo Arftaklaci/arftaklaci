@@ -2,11 +2,13 @@
 ------
 Who is ArifReis?
 
-I am a well-known Cybersecurity Expert, sharing various essential tools and programs with the community. Thanks to my curiosity and passion for technology, I have come this far in my journey.
-<br>
-I am also the founder of LWA Team and the social media platform Megram.
-<br>
-------
+I am a well-known Cybersecurity
+
+Expert, sharing various essential tools and programs with the community. My curiosity and passion for technology have driven me to constantly learn, improve, and build innovative solutions.
+
+I am the founder of LWA Team and the creator of Megram, a social media platform built with a vision of providing original, tech-driven solutions.
+
+
 ## Programming Languages I Excel At:
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="50px"></img>](#iyi-bildiğim-diller)
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="50px"></img>](#iyi-bildiğim-diller)
